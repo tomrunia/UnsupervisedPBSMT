@@ -11,9 +11,10 @@ Unsupervised learning for machine translation systems. In particular, these appr
 
 ## Installation
 
-    git clone --recursive 
+    git clone --recursive git@github.com:tomrunia/UnsupervisedPBSMT.git
 
 ## References
 
-- Conneau, Alexis, et al. "**Word translation without parallel data.**" ICLR 2018. 
+- Conneau, Alexis, et al. "**Word translation without parallel data.**" ICLR 2018.
+- Lample, Guillaume, et al. "**Unsupervised Machine Translation Using Monolingual Corpora Only.**" ICLR 2018. 
 - Lample, Guillaume, et al. "**Phrase-Based & Neural Unsupervised Machine Translation.**" arXiv 2018.
